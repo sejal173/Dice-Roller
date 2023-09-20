@@ -1,0 +1,36 @@
+*{
+    /* margin: 0%; */
+}
+
+.main-container
+{
+    border: 2px solid black;
+    height: 500px;
+    width: 500px;
+    background-color: aqua;
+   /* display: flex;
+   justify-content: center; */
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   margin-top: 80px;
+}
+
+
+
+/* .container
+{
+    border: 2px solid black;
+    height: 500px;
+    width: 500px;
+    background-color: aqua;
+    /* display: flex;
+    justify-content: center; */
+    
+}
+.main-container
+{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+} */
